@@ -17,7 +17,7 @@ export function Footer(props: IFooterProps) {
         </p>
         <div className="flex gap-4">
           <a
-            href="https://github.com/legend0619/kanban"
+            href="https://github.com/dragonknight0522/kanban"
             aria-label="Home"
             target="_blank"
             className="flex items-center gap-1 dark:text-zinc-400"
